@@ -136,7 +136,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact & Support
 
-For support or feedback, reach out at **[your-email@example.com](mailto:your-email@example.com)** or open an issue in the repository.
+For support or feedback, reach out at **[your-email@example.com](mailto: mitrashreyan2005@gmail.com / rayanporel@outlook.com )** or open an issue in the repository.
 
 🚀 **Ace your exams with JEXAMIN – Your Shortcut to Success!** 🎯
 
